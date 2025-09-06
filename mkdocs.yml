@@ -1,8 +1,8 @@
-site_name: Template de Entrega
-site_author: Sandmann, H.
-site_url: https://hsandmann.github.io/documentation.template
-repo_url: https://github.com/hsandmann/documentation.template
-repo_name: github/documentation.template
+site_name: Redes Neurais e Deep Learning
+site_author: Lucas Lima
+site_url: https://github.com/lucasouzamil/neural-networks-deep-learning-docs
+repo_url: https://github.com/lucasouzamil/neural-networks-deep-learning-docs
+repo_name: github/neural-networks-deep-learning-docs
 
 theme:
   name: material
@@ -132,11 +132,11 @@ extra_javascript:
   - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
 
 nav:
-  - Home: index.md
-  - This documentation: ./thisdocumentation/main.md
-  - Roteiros:
-    - Roteiro 1: ./roteiro1/main.md
-    - Roteiro 2: ./roteiro2/main.md
-    - Roteiro 3: ./roteiro3/main.md
-    - Roteiro 4: ./roteiro4/main.md
-  - Projeto: ./projeto/main.md
+  #- Home: index.md
+  #- This documentation: ./thisdocumentation/main.md
+  - Pratica:
+    - Data: ./data/main.md
+  #  - Roteiro 2: ./roteiro2/main.md
+  #  - Roteiro 3: ./roteiro3/main.md
+  #  - Roteiro 4: ./roteiro4/main.md
+  #  - Projeto: ./projeto/main.md

@@ -1,0 +1,32 @@
+# ---- MkDocs build output
+site/
+
+# ---- Python / venv
+env/
+.venv/
+venv/
+.python-version
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# ---- Logs e caches
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# ---- SO / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# ---- Variáveis de ambiente
+.env
+.env.*
