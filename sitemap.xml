@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/lucasouzamil/neural-networks-deep-learning-docs/</loc>
-         <lastmod>2025-09-06</lastmod>
+         <lastmod>2025-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/lucasouzamil/neural-networks-deep-learning-docs/index%20copy/</loc>
-         <lastmod>2025-09-06</lastmod>
+         <lastmod>2025-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/lucasouzamil/neural-networks-deep-learning-docs/data/main/</loc>
-         <lastmod>2025-09-06</lastmod>
+         <lastmod>2025-09-21</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/lucasouzamil/neural-networks-deep-learning-docs/perceptron/main/</loc>
+         <lastmod>2025-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/lucasouzamil/neural-networks-deep-learning-docs/projeto/main/</loc>
-         <lastmod>2025-09-06</lastmod>
+         <lastmod>2025-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/lucasouzamil/neural-networks-deep-learning-docs/roteiro2/main/</loc>
-         <lastmod>2025-09-06</lastmod>
+         <lastmod>2025-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/lucasouzamil/neural-networks-deep-learning-docs/roteiro3/main/</loc>
-         <lastmod>2025-09-06</lastmod>
+         <lastmod>2025-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/lucasouzamil/neural-networks-deep-learning-docs/roteiro4/main/</loc>
-         <lastmod>2025-09-06</lastmod>
+         <lastmod>2025-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/lucasouzamil/neural-networks-deep-learning-docs/thisdocumentation/main/</loc>
-         <lastmod>2025-09-06</lastmod>
+         <lastmod>2025-09-21</lastmod>
     </url>
 </urlset>
