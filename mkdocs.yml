@@ -136,6 +136,7 @@ nav:
   #- This documentation: ./thisdocumentation/main.md
   - Pratica:
     - Data: ./data/main.md
+    - Perceptron: ./perceptron/main.md
   #  - Roteiro 2: ./roteiro2/main.md
   #  - Roteiro 3: ./roteiro3/main.md
   #  - Roteiro 4: ./roteiro4/main.md
